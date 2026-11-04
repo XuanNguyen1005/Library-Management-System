@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Hi\\Downloads\\gson-2.15.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Library-Management-System-main\\src"
+    ]
+}
